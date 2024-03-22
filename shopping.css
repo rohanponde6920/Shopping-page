@@ -1,0 +1,104 @@
+.head{
+	height:400px;
+	width: 100%;
+	background-color: #F2CB2D;
+	margin-top: 40px;
+	background-image: url('https://img.freepik.com/premium-photo/cute-funny-woman-yellow-casual-cloth-style-standing-with-megaphone_941600-8499.jpg'
+	);
+    background-repeat: no-repeat;
+    background-position-x:80%;
+    
+}
+
+#head{
+	padding-left: 160px;
+	padding-top: 25px
+}
+.h1{
+	font-family: cursive;
+	font-size: 43px;
+	font-weight:bolder;
+	color: red;
+}
+.h2{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: black;
+	margin-top: -20px;
+	font-weight: bolder;
+	
+
+}
+,para{
+	font-size: 13px;
+	color: lightsteelblue;
+	font-weight: bold;
+}
+
+.shop
+{
+	height:40px;
+	width: 120px;
+	background-color: red;
+    color: white;
+    border-radius: 5px;
+    transition-duration: 2s;
+}
+.shop:hover{
+	border-radius: 10px;
+	background-color: red;
+	color: whitesmoke;
+	transform: scale(1.5);
+	box-shadow: 0px 0px 6px cyan;
+
+}
+.pay{
+	height: 250px;
+	width: 100%;
+}
+#why{
+	color:#13042e;
+	font-weight: bolder;
+	font-size: 35px;
+	
+}
+
+.man{
+	height: 450px;
+	width: 100%;
+	background-color:#caccca;
+	background-image: url("https://img.freepik.com/free-photo/man-wearing-t-shirt-gesturing_23-2149393647.jpg?w=1060&t=st=1697109011~exp=1697109611~hmac=ad447cb636eef273d620ef061897bdc72aa9f805d61b537113ee4bc002de6532");
+    background-repeat: no-repeat;
+    background-position-x:25%;
+}
+.h3{
+    padding-left: 50%;
+    font-size: 45px;
+    font-weight: bolder;
+    color: #a31536;
+    font-family: cursive;
+}
+.para1{
+	padding-left: 50%;
+	font-size: 25px;
+	font-family: sans-serif;
+	color: black;
+	text-align: justify;
+
+}
+.vit{
+
+	height: 40px;
+	width: 120px;
+	background-color: red;
+	color: white;
+	margin-left: 50%;
+	margin-bottom: 30px;
+	transition-duration: 3s;
+}
+.vit:hover{
+	border-radius: 10px;
+	background-color: red;
+	color: whitesmoke;
+	transform: scale(1.5);
+	box-shadow: 0px 0px 6px cyan;
